@@ -1,10 +1,10 @@
 # [level 1] 자릿수 더하기 - 12931 
 
-[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/12931) 
+[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/12931?language=swift) 
 
 ### 성능 요약
 
-메모리: 78.7 MB, 시간: 0.04 ms
+메모리: 16.4 MB, 시간: 0.03 ms
 
 ### 구분
 
@@ -16,7 +16,7 @@
 
 ### 제출 일자
 
-2024년 2월 1일 14:46:52
+2024년 04월 08일 16:44:05
 
 ### 문제 설명
 
