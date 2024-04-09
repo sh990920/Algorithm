@@ -1,10 +1,10 @@
 # [level 0] 배열의 원소만큼 추가하기 - 181861 
 
-[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/181861) 
+[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/181861?language=swift) 
 
 ### 성능 요약
 
-메모리: 68.4 MB, 시간: 1.75 ms
+메모리: 16.4 MB, 시간: 0.03 ms
 
 ### 구분
 
@@ -16,7 +16,7 @@
 
 ### 제출 일자
 
-2024년 1월 1일 13:4:40
+2024년 04월 09일 16:26:57
 
 ### 문제 설명
 
