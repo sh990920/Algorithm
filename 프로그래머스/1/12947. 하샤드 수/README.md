@@ -1,10 +1,10 @@
 # [level 1] 하샤드 수 - 12947 
 
-[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/12947) 
+[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/12947?language=swift) 
 
 ### 성능 요약
 
-메모리: 76 MB, 시간: 0.08 ms
+메모리: 16.3 MB, 시간: 0.05 ms
 
 ### 구분
 
@@ -16,7 +16,7 @@
 
 ### 제출 일자
 
-2024년 03월 15일 16:21:09
+2024년 04월 15일 14:27:32
 
 ### 문제 설명
 
