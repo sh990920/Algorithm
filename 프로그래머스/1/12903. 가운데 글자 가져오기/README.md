@@ -1,10 +1,10 @@
 # [level 1] 가운데 글자 가져오기 - 12903 
 
-[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/12903) 
+[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/12903?language=swift) 
 
 ### 성능 요약
 
-메모리: 77.9 MB, 시간: 13.09 ms
+메모리: 16.4 MB, 시간: 0.10 ms
 
 ### 구분
 
@@ -16,7 +16,7 @@
 
 ### 제출 일자
 
-2024년 2월 1일 14:56:53
+2024년 04월 23일 00:06:20
 
 ### 문제 설명
 
