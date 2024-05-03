@@ -30,7 +30,7 @@ func solution(_ n:Int) -> Int {
             if cnt == 0 {
                 result += res
             } else {
-                result += Int(Float(res) * pow(Float(3), Float(cnt)))
+                result += Int(Double(res) * pow(Double(3), Double(cnt)))
             }
         }
         cnt += 1
