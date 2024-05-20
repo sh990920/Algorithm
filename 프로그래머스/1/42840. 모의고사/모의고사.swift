@@ -14,26 +14,14 @@ func solution(_ answers:[Int]) -> [Int] {
     let len = answers.count
     
     for i in 0 ..< len {
-        if i == 0 {
-            if answers[i] == aList[i] {
-                dict[1]! += 1
-            }
-            if answers[i] == bList[i] {
-                dict[2]! += 1
-            }
-            if answers[i] == cList[i] {
-                dict[3]! += 1
-            }
-        } else {
-            if answers[i] == aList[i % aLen] {
-                dict[1]! += 1
-            }
-            if answers[i] == bList[i % bLen] {
-                dict[2]! += 1
-            }
-            if answers[i] == cList[i % cLen] {
-                dict[3]! += 1
-            }
+        if answers[i] == aList[i % aLen] {
+            dict[1]! += 1
+        }
+        if answers[i] == bList[i % bLen] {
+            dict[2]! += 1
+        }
+        if answers[i] == cList[i % cLen] {
+            dict[3]! += 1
         }
     }
     
