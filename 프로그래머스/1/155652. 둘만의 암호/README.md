@@ -1,10 +1,10 @@
 # [level 1] 둘만의 암호 - 155652 
 
-[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/155652) 
+[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/155652?language=swift) 
 
 ### 성능 요약
 
-메모리: 84.1 MB, 시간: 9.84 ms
+메모리: 16.5 MB, 시간: 0.48 ms
 
 ### 구분
 
@@ -16,7 +16,7 @@
 
 ### 제출 일자
 
-2024년 2월 3일 22:44:1
+2024년 05월 31일 10:10:01
 
 ### 문제 설명
 
